@@ -8,5 +8,5 @@
 
 ⌨ Programming: C, C++, C#, Java (include Kotlin), Objective-C, Swift
 
-📔 Language: Japanese, English, Simplified Chinese, Traditional Chinese, Korean (Read only), German (Read only), French (Read only)
-
+📔 Language: Japanese, English, Simplified Chinese, Traditional Chinese, Korean (Read only), German (Read only), French (Read only),
+Indonesian (Read Only), Hebrew (Read Only)
