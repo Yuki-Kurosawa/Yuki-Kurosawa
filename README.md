@@ -2,7 +2,9 @@
 
 💻 Works for Yuki Software Studio
 
-💾 Main maintainer for Kurosawa Linux (KSLinux)
+💾 Main maintainer for Kurosawa Linux (KSLinux)<br/>
+⌨️ Debian Contributor<br/>
+💽 Package Maintainer for Yuki's Web Server
 
 🎧 Virtual YouTuber
 
